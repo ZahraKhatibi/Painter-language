@@ -44,7 +44,6 @@ In a recursive function, baseExpr is evaluated first. Initially, rArg is set to 
 
 ### Converting SPPL Program Strings to JSON
 The server only accepts JSON-formatted code, so clients must be able to convert their program code to JSON format. 
-Further details on this conversion process can be found in the "problem.pdf" file.
 
 ### Examples
 For examples of both valid and invalid SPPL programs, along with the JSON representation of a valid program, please refer to the samples.
