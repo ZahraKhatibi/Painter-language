@@ -1,4 +1,5 @@
 # Simple Paint Programming Language
+![](pic.png)
 ### Overview
 We were tasked with creating a Python interpreter for a programming language known as SPPL (Simple Paint Programming Language). 
 SPPL enables users to write code that generates images based on their instructions. The interpreter is hosted on a server, and clients connect to it, 
