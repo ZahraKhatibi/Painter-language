@@ -1,5 +1,5 @@
 # Simple Paint Programming Language
-<img src="pic.png" alt="Image Description" width="500"/>
+<img src="pic.png" alt="Image Description" width="800"/>
 
 ### Overview
 We were tasked with creating a Python interpreter for a programming language known as SPPL (Simple Paint Programming Language). 
